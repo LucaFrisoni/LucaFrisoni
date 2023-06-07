@@ -2,7 +2,7 @@
 # Luca Frisoni - Full-Stack Developer
 ¡Hola! Soy Luca Frisoni, un apasionado Full-Stack Developer y estudiante de Ingeniería Informática. Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver. Mi experiencia se basa en el uso de JavaScript, Node.js, React y PostgreSQL como mis principales lenguajes y entornos de trabajo. Actualmente, me encuentro en busca de mi primer empleo como desarrollador, y me considero altamente capacitado para desempeñarme eficientemente tanto en Front-End como en Back-End.
 
-¿Por qué elegirme?
+# ¿Por qué elegirme?
 ⭐ Tengo múltiples horas de práctica, desarrollo, innovación y diseño gracias a mi formación en soyHenry, así como a las numerosas horas adicionales que he invertido en otras plataformas y espacios de aprendizaje. Estas experiencias me han permitido adquirir las habilidades que poseo en la actualidad.
 
 ⭐ Soy una persona sumamente curiosa, exigente y ambiciosa. Estoy ansioso por crecer y desarrollarme en este maravilloso mundo de la programación.
