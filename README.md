@@ -21,7 +21,7 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
  ## ¿Que tecnologias uso?
 
 ## No dudes en contactarme!
-[linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)
+[Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
 Gmail:[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
 
 
