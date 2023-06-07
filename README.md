@@ -19,7 +19,7 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
 ¡Gracias por tu atención!
  
  ## ¿Que tecnologias uso?
- !(https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg)
+ ![hola](https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg)
 🚀 Luca Frisoni
 <!--
 **LucaFrisoni/LucaFrisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
