@@ -20,6 +20,10 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
  
  ## ¿Que tecnologias uso?
 
+## No dudes en contactarme!
+<span style="color:blue;">Linkedin:</span>
+
+
 🚀 Luca Frisoni
 <!--
 **LucaFrisoni/LucaFrisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
