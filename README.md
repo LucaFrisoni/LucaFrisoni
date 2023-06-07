@@ -22,7 +22,7 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
 
 ## No dudes en contactarme!
 [Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
-Gmail:[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
+[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
 
 
 🚀 Luca Frisoni
