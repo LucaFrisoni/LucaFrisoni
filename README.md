@@ -11,7 +11,7 @@
 
 ⭐ Destaco por mi habilidad para el aprendizaje. Comencé sin saber nada en este campo y, en tan solo 5 meses, he logrado dominar una amplia gama de conceptos. Continúo aprendiendo y mejorando mis habilidades día a día.
 
-Experiencia
+## Experiencia
 Cuento con una amplia variedad de proyectos desarrollados este año, pero uno de los más destacados y desafiantes hasta la fecha es una página web con funcionalidad de inicio de sesión, validaciones y verificación por correo electrónico. Una vez creado el usuario, se puede acceder a una página de videojuegos que permite aplicar múltiples filtros combinados, buscar cualquier videojuego existente y agregarlos a favoritos. Además, los usuarios tienen la posibilidad de crear sus propios videojuegos y ver los detalles de cada uno. También se ofrece la opción de modificar la contraseña o el nombre de usuario en caso de olvido.
 
 Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrollando mis habilidades y creciendo profesionalmente en aquello que me apasiona.
