@@ -19,7 +19,7 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
 ¡Gracias por tu atención!
  
  ## ¿Que tecnologias uso?
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript--v1"/>
 ## No dudes en contactarme!
 💼[Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
 📧[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
