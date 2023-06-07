@@ -20,6 +20,15 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
  
  ## ¿Que tecnologias uso?
 ![JavaScript](https://img.icons8.com/color/80/000000/javascript--v1.png)
+![HTML](https://img.icons8.com/color/80/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/80/000000/css3.png)
+![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
+![React](https://img.icons8.com/plasticine/80/000000/react.png)
+![Redux](https://img.icons8.com/color/80/000000/redux.png)
+![SQL](https://img.icons8.com/arcade/80/000000/sql.png)
+![Postgress](https://img.icons8.com/ios-filled/80/000000/postgreesql.png)
+![Slack](https://img.icons8.com/color/80/000000/slack.png)
+![Discord](https://img.icons8.com/color/80/000000/discord--v2.png)
 ## No dudes en contactarme!
 💼[Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
 📧[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
