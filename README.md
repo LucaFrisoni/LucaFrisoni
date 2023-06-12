@@ -27,7 +27,7 @@ Estoy en busca de un nuevo y emocionante desafío que me permita seguir desarrol
 ![Redux](https://img.icons8.com/color/80/000000/redux.png)
 ![SQL](https://img.icons8.com/arcade/80/000000/sql.png)
 ![Postgress](https://img.icons8.com/ios-filled/80/000000/postgreesql.png)
-![Mongo] (https://img.icons8.com/color/80/000000/mongodb.png)
+![mongo](https://img.icons8.com/color/80/000000/mongodb.png)
 ![Slack](https://img.icons8.com/color/80/000000/slack.png)
 ![Discord](https://img.icons8.com/color/80/000000/discord--v2.png)
 ## No dudes en contactarme!
