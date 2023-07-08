@@ -26,7 +26,7 @@ Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir 
 ![HTML](https://img.icons8.com/color/80/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/80/000000/css3.png)
 ![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
-![Next](https://cdn.icon-icons.com/icons2/2148/PNG/400/nextjs_icon_132160.png)
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="Next" width="80" />
 ![React](https://img.icons8.com/plasticine/80/000000/react.png)
 ![Redux](https://img.icons8.com/color/80/000000/redux.png)
 ![SQL](https://img.icons8.com/arcade/80/000000/sql.png)
