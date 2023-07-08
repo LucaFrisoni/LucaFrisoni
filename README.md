@@ -13,7 +13,8 @@
 
 ## Experiencia
 Cuento con una amplia variedad de proyectos desarrollados este año, pero uno de los más destacados y desafiantes hasta la fecha es una página web con funcionalidad de inicio de sesión, validaciones y verificación por correo electrónico. Una vez creado el usuario, se puede acceder a una página de videojuegos que permite aplicar múltiples filtros combinados, buscar cualquier videojuego existente y agregarlos a favoritos. Además, los usuarios tienen la posibilidad de crear sus propios videojuegos y ver los detalles de cada uno. También se ofrece la opción de modificar la contraseña o el nombre de usuario en caso de olvido.
-   Por ultimo destacar que poseo un trabajo grupal, en donde hemos aprendido a trabajar con GitFlow y realizamos un Ecommerce de Venta de productos electronicos. Sin duda es el mejor proyecto hata la fecha
+   
+Por ultimo destacar que poseo un trabajo grupal, en donde hemos aprendido a trabajar con GitFlow y realizamos un Ecommerce de Venta de productos electronicos. Sin duda es el mejor proyecto hata la fecha
 Link de la pagina: https://re-store-six.vercel.app/
 
 Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir desarrollando mis habilidades y creciendo profesionalmente en aquello que me apasiona.
@@ -25,7 +26,7 @@ Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir 
 ![HTML](https://img.icons8.com/color/80/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/80/000000/css3.png)
 ![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
-![Next](https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png)
+![Next](https://cdn.icon-icons.com/icons2/2148/PNG/400/nextjs_icon_132160.png)
 ![React](https://img.icons8.com/plasticine/80/000000/react.png)
 ![Redux](https://img.icons8.com/color/80/000000/redux.png)
 ![SQL](https://img.icons8.com/arcade/80/000000/sql.png)
