@@ -11,6 +11,10 @@
 
 ⭐ Destaco por mi habilidad para el aprendizaje. Comencé sin saber nada en este campo y, en tan solo 5 meses, he logrado dominar una amplia gama de conceptos. Continúo aprendiendo y mejorando mis habilidades día a día.
 
+⭐ Poseo una destacada capacidad para trabajar en equipo, desempeñando un papel sobresaliente. Mi enfoque se caracteriza por la eficiencia, la responsabilidad y la habilidad de ser un buen compañero. Además, tengo la capacidad de tomar decisiones estratégicas y significativas para el desarrollo exitoso del proyecto.
+
+⭐ Estoy plenamente preparado para desempeñarme en un entorno laboral de alto nivel..
+
 ## Experiencia
 Cuento con una amplia variedad de proyectos desarrollados este año, pero uno de los más destacados y desafiantes hasta la fecha es una página web con funcionalidad de inicio de sesión, validaciones y verificación por correo electrónico. Una vez creado el usuario, se puede acceder a una página de videojuegos que permite aplicar múltiples filtros combinados, buscar cualquier videojuego existente y agregarlos a favoritos. Además, los usuarios tienen la posibilidad de crear sus propios videojuegos y ver los detalles de cada uno. También se ofrece la opción de modificar la contraseña o el nombre de usuario en caso de olvido.
    
