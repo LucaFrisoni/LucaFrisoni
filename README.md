@@ -27,7 +27,7 @@ Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir 
  
  ## ¿Que tecnologias uso?
 ![JavaScript](https://img.icons8.com/color/80/000000/javascript--v1.png)
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/python.png" alt="python"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/80/000000/python.png" alt="python"/>
 ![HTML](https://img.icons8.com/color/80/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/80/000000/css3.png)
 ![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
