@@ -1,6 +1,6 @@
 
 # Luca Frisoni - Full-Stack Developer
-¡Hola! Soy Luca Frisoni, tengo 21 años, soy un apasionado Full-Stack Developer y estudiante de Ingeniería Informática. Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver. Mi experiencia se basa en el uso de JavaScript, Node.js, React, Next.js, PostgreSQL y MongoDB como mis principales lenguajes y entornos de trabajo. Me considero altamente capacitado para desempeñarme eficientemente tanto en Front-End como en Back-End.
+¡Hola! Soy Luca Frisoni, tengo 21 años, soy un apasionado Full-Stack Developer y estudiante de Ingeniería Informática. Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver. Mi experiencia se basa en el uso de JavaScript/Python/TypeScript, Node.js, React, Next.js, PostgreSQL y MongoDB(entre otros)como mis principales lenguajes y entornos de trabajo. Me considero altamente capacitado para desempeñarme eficientemente tanto en Front-End como en Back-End.
 
 ## ¿Por qué elegirme?
 ⭐ Tengo múltiples horas de práctica, desarrollo, innovación y diseño gracias a mi formación en soyHenry, así como a las numerosas horas adicionales que he invertido en otras plataformas y espacios de aprendizaje. Estas experiencias me han permitido adquirir las habilidades que poseo en la actualidad.
@@ -27,6 +27,7 @@ Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir 
  
  ## ¿Que tecnologias uso?
 ![JavaScript](https://img.icons8.com/color/80/000000/javascript--v1.png)
+![Python](<img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/python.png" alt="python"/>)
 ![HTML](https://img.icons8.com/color/80/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/80/000000/css3.png)
 ![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
