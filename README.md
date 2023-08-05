@@ -33,6 +33,7 @@ Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir 
 ![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="Next" width="80" />
 ![React](https://img.icons8.com/plasticine/80/000000/react.png)
+<img width="80" height="80" src="https://img.icons8.com/ios/80/000000/django.png" alt="django"/>
 ![Redux](https://img.icons8.com/color/80/000000/redux.png)
 ![SQL](https://img.icons8.com/arcade/80/000000/sql.png)
 ![Postgress](https://img.icons8.com/ios-filled/80/000000/postgreesql.png)
