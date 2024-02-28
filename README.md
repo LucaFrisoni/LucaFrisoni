@@ -16,7 +16,7 @@
 ⭐ Estoy plenamente preparado para desempeñarme en un entorno laboral de alto nivel.
 
 ## Experiencia
-Algunos de mis proyectos mas destacados:
+Algunos de mis proyectos mas destacados:<br>
 🎶[Clone Spotify](https://clone-spotify-nine-lime.vercel.app/)<br>
 💎[Clone Twitter](https://litter-chi.vercel.app/)<br>
 🤖[Pread SasS](https://pread.vercel.app/)<br>
