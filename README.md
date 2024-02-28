@@ -17,7 +17,12 @@
 
 ## Experiencia
 Algunos de mis proyectos mas destacados:
-
+🎶[Clone Spotify](https://clone-spotify-nine-lime.vercel.app/)<br>
+💎[Clone Twitter](https://litter-chi.vercel.app/)<br>
+🤖[Pread SasS](https://pread.vercel.app/)<br>
+📝[LucaNotion](https://front-luca-notion.vercel.app/)<br>
+🖼️[Clone Figma](https://figma-clone-sooty.vercel.app/)<br>
+📌[Clone Trello](https://trello-clone-pi-seven.vercel.app/)
 
 ¡Gracias por tu atención!
  
