@@ -16,12 +16,8 @@
 ⭐ Estoy plenamente preparado para desempeñarme en un entorno laboral de alto nivel.
 
 ## Experiencia
-Cuento con una amplia variedad de proyectos desarrollados este año, pero uno de los más destacados y desafiantes hasta la fecha es una página web con funcionalidad de inicio de sesión, validaciones y verificación por correo electrónico. Una vez creado el usuario, se puede acceder a una página de videojuegos que permite aplicar múltiples filtros combinados, buscar cualquier videojuego existente y agregarlos a favoritos. Además, los usuarios tienen la posibilidad de crear sus propios videojuegos y ver los detalles de cada uno. También se ofrece la opción de modificar la contraseña o el nombre de usuario en caso de olvido.
-   
-Por ultimo destacar que poseo un trabajo grupal, en donde hemos aprendido a trabajar con GitFlow y realizamos un Ecommerce de Venta de productos electronicos. Sin duda es el mejor proyecto hata la fecha
-Link de la pagina: https://re-store-six.vercel.app/
+Algunos de mis proyectos mas destacados:
 
-Actualmente me encuentra en busqueda de mi primer trabajo que me permita seguir desarrollando mis habilidades y creciendo profesionalmente en aquello que me apasiona.
 
 ¡Gracias por tu atención!
  
