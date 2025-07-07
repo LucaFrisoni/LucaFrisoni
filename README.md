@@ -53,10 +53,10 @@ Algunos de mis proyectos deployados mas destacados:<br>
 
 ## 📈 GitHub Stats
 
-![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frisoniluca&show_icons=true&theme=tokyonight&hide_rank=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frisoniluca&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=frisoniluca&theme=tokyonight)  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frisoniluca&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaFrisoni&show_icons=true&theme=tokyonight&hide_rank=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFrisoni&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=LucaFrisoni&theme=tokyonight)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucaFrisoni&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
