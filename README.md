@@ -1,7 +1,7 @@
 
 # Luca Frisoni - Full-Stack Developer
-¡Hola! Soy Luca Frisoni, tengo 23 años, soy un apasionado estudiante de Ingeniería Informática y Full-Stack Developer. 
-Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver. 
+¡Hola! Soy Luca Frisoni, tengo 23 años, soy un apasionado estudiante de Ingeniería Informática y Full-Stack Developer.  
+Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver.   
 Mi experiencia se basa principalmente en el uso de **JavaScript, Python, TypeScript , C y Java**, junto a tecnologías como **Node.js, React, Next.js, Flask, PostgreSQL, MongoDB**, entre muchas otras.
 
 ---
@@ -20,14 +20,14 @@ Mi experiencia se basa principalmente en el uso de **JavaScript, Python, TypeScr
 ---
 
 ## Experiencia
-Algunos de mis proyectos deployados mas destacados:<br>
+Algunos de mis proyectos mas destacados en producción:<br>
 🖼️[Clone Figma](https://figma-clone-sooty.vercel.app/)<br>
-*Estoy trabajando en nuevos proyectos que también compartiré pronto.*
-*Muchos proyectos en formato local.*
+> *Estoy trabajando en nuevos proyectos que también compartiré pronto.*  
+> *Muchos proyectos en formato local.*
 
 ---
  
- ## ¿Que tecnologias uso?
+ ## ¿Que tecnologías uso?
 ![JavaScript](https://img.icons8.com/color/80/000000/javascript--v1.png)
 <img width="80" height="80" src="https://img.icons8.com/fluency/80/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 ![Python](https://img.icons8.com/color/80/python--v1.png)
@@ -55,6 +55,7 @@ Algunos de mis proyectos deployados mas destacados:<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFrisoni&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LucaFrisoni&theme=tokyonight)  
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=LucaFrisoni&color=blue)
 
 ---
 
@@ -66,17 +67,4 @@ Algunos de mis proyectos deployados mas destacados:<br>
 
 ¡Gracias por tu atención y por visitar mi perfil! 🚀
 🚀 Luca Frisoni
-<!--
-**LucaFrisoni/LucaFrisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
