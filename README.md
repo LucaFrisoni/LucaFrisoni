@@ -61,7 +61,7 @@ Algunos de mis proyectos mas destacados en producción:<br>
 ## No dudes en contactarme!
 💼[Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
 📧[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
-🧠[Portfolio]([https://tusitio.dev](https://portfoliolucafrisoni.onrender.com/)) 
+🧠[Portfolio](https://portfoliolucafrisoni.onrender.com/) 
 
 ---
 
