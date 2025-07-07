@@ -52,8 +52,7 @@ Algunos de mis proyectos mas destacados en producción:<br>
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFrisoni&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=LucaFrisoni&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFrisoni&layout=compact&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com/?user=LucaFrisoni&theme=tokyonight)  
 
 ---
 
