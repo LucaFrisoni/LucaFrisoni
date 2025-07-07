@@ -1,51 +1,72 @@
 
 # Luca Frisoni - Full-Stack Developer
-¡Hola! Soy Luca Frisoni, tengo 23 años, soy un apasionado Full-Stack Developer y estudiante de Ingeniería Informática. Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver. Mi experiencia se basa en el uso de JavaScript/Python/TypeScript, Node.js, React, Next.js, PostgreSQL y MongoDB(entre otros)como mis principales lenguajes y entornos de trabajo. Me considero altamente capacitado para desempeñarme eficientemente tanto en Front-End como en Back-End.
+¡Hola! Soy Luca Frisoni, tengo 23 años, soy un apasionado estudiante de Ingeniería Informática y Full-Stack Developer. 
+Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver. 
+Mi experiencia se basa principalmente en el uso de **JavaScript, Python, TypeScript , C y Java**, junto a tecnologías como **Node.js, React, Next.js, Flask, PostgreSQL, MongoDB**, entre muchas otras.
+
+---
 
 ## ¿Por qué elegirme?
-⭐ Tengo múltiples horas de práctica, desarrollo, innovación y diseño gracias a mi formación en soyHenry, así como a las numerosas horas adicionales que he invertido en otras plataformas y espacios de aprendizaje. Estas experiencias me han permitido adquirir las habilidades que poseo en la actualidad.
+⭐ **Formación sólida y en constante crecimiento:** Estoy en segundo año de Ingeniería Informática y cuento con una base técnica robusta, fortalecida por mi paso por SoyHenry y mi compromiso personal con el aprendizaje autodidacta. A diario dedico tiempo a seguir perfeccionando mis habilidades y ampliando mis conocimientos en programación y arquitectura de software.
 
-⭐ Soy una persona sumamente curiosa, exigente y ambiciosa. Estoy ansioso por crecer y desarrollarme en este maravilloso mundo de la programación.
+⭐ **Curiosidad, ambición y disciplina:** Aprendí a programar desde cero en pocos meses, y desde entonces no he dejado de avanzar. Soy una persona exigente conmigo mismo, ambiciosa en mis metas y profundamente curiosa, lo que me lleva a aprender rápido y adaptarme con facilidad a nuevas tecnologías.
 
-⭐ Me caracterizo por ser organizado en mi espacio de trabajo y estructurado en mi enfoque. Esta cualidad me permite abordar proyectos y tareas de manera eficiente y efectiva.
+⭐ **Mentalidad estructurada y organizada:** Trabajo con enfoque y orden. Me resulta natural estructurar tanto el código como los procesos, lo que me permite trabajar con claridad, mantener buenas prácticas y colaborar de forma efectiva en equipos de desarrollo.
 
-⭐ Destaco por mi habilidad para el aprendizaje. Comencé sin saber nada en este campo y, en tan solo 5 meses, he logrado dominar una amplia gama de conceptos. Continúo aprendiendo y mejorando mis habilidades día a día.
+⭐ **Trabajo en equipo y liderazgo:** Tengo la capacidad de integrarme con facilidad en equipos de trabajo, aportar desde lo técnico y también desde lo humano. Me destaco por mi compromiso, responsabilidad y disposición a tomar decisiones estratégicas que impulsen los proyectos hacia el éxito.
 
-⭐ Poseo una destacada capacidad para trabajar en equipo, desempeñando un papel sobresaliente. Mi enfoque se caracteriza por la eficiencia, la responsabilidad y la habilidad de ser un buen compañero. Además, tengo la capacidad de tomar decisiones estratégicas y significativas para el desarrollo exitoso del proyecto.
+⭐ **Listo para entornos profesionales:** A pesar de mi corta trayectoria, ya cuento con la preparación y mentalidad necesarias para contribuir en entornos de trabajo exigentes y profesionales. Me entusiasma la idea de seguir creciendo junto a equipos desafiantes y proyectos con impacto real.
 
-⭐ Estoy plenamente preparado para desempeñarme en un entorno laboral de alto nivel.
+---
 
 ## Experiencia
-Algunos de mis proyectos mas destacados:<br>
-🎶[Clone Spotify](https://clone-spotify-nine-lime.vercel.app/)<br>
-💎[Clone Twitter](https://litter-chi.vercel.app/)<br>
-🤖[Pread SasS](https://pread.vercel.app/)<br>
-📝[LucaNotion](https://front-luca-notion.vercel.app/)<br>
+Algunos de mis proyectos deployados mas destacados:<br>
 🖼️[Clone Figma](https://figma-clone-sooty.vercel.app/)<br>
-📌[Clone Trello](https://trello-clone-pi-seven.vercel.app/)
+*Estoy trabajando en nuevos proyectos que también compartiré pronto.*
+*Muchos proyectos en formato local.*
 
-¡Gracias por tu atención!
+---
  
  ## ¿Que tecnologias uso?
 ![JavaScript](https://img.icons8.com/color/80/000000/javascript--v1.png)
 <img width="80" height="80" src="https://img.icons8.com/fluency/80/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+![Python](https://img.icons8.com/color/80/python--v1.png)
+![Linux](https://img.icons8.com/color/80/linux--v1.png)
 ![HTML](https://img.icons8.com/color/80/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/80/000000/css3.png)
+![Tailwind](https://img.icons8.com/color/80/tailwind_css.png)
 ![Node.js](https://img.icons8.com/fluency/80/000000/node-js.png)
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="Next" width="80" />
 ![React](https://img.icons8.com/plasticine/80/000000/react.png)
-<img width="80" height="80" src="https://img.icons8.com/ios/80/000000/django.png" alt="django"/>
+![Flask](https://img.icons8.com/ios/80/flask.png)
 ![Redux](https://img.icons8.com/color/80/000000/redux.png)
 ![SQL](https://img.icons8.com/arcade/80/000000/sql.png)
-![Postgress](https://img.icons8.com/ios-filled/80/000000/postgreesql.png)
 ![mongo](https://img.icons8.com/color/80/000000/mongodb.png)
+![Docker](https://img.icons8.com/fluency/80/docker.png)
 ![Slack](https://img.icons8.com/color/80/000000/slack.png)
 ![Discord](https://img.icons8.com/color/80/000000/discord--v2.png)
+![Trello](https://img.icons8.com/color/80/trello.png)
+![Figma](https://img.icons8.com/color/80/figma--v1.png)
+![Github](https://img.icons8.com/ios-glyphs/80/github.png)
+
+---
+
+## 📈 GitHub Stats
+
+![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frisoniluca&show_icons=true&theme=tokyonight&hide_rank=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frisoniluca&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=frisoniluca&theme=tokyonight)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frisoniluca&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## No dudes en contactarme!
 💼[Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
 📧[Envíame un correo electrónico](mailto:frisoniluca1@gmail.com)
 
+---
 
+¡Gracias por tu atención y por visitar mi perfil! 🚀
 🚀 Luca Frisoni
 <!--
 **LucaFrisoni/LucaFrisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
