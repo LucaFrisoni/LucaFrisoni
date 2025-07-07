@@ -1,5 +1,5 @@
 
-# Luca Frisoni - Full-Stack Developer
+# Luca Frisoni - Full-Stack Developer ![Visitas al perfil](https://komarev.com/ghpvc/?username=LucaFrisoni&color=blue)
 ¡Hola! Soy Luca Frisoni, tengo 23 años, soy un apasionado estudiante de Ingeniería Informática y Full-Stack Developer.  
 Me considero una persona técnica, lógica y racional, con un gran interés por comprender cómo funcionan las cosas. Disfruto trabajando en sistemas complicados y me motiva enfrentar rompecabezas y problemas lógicos para resolver.   
 Mi experiencia se basa principalmente en el uso de **JavaScript, Python, TypeScript , C y Java**, junto a tecnologías como **Node.js, React, Next.js, Flask, PostgreSQL, MongoDB**, entre muchas otras.
@@ -54,8 +54,6 @@ Algunos de mis proyectos mas destacados en producción:<br>
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFrisoni&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LucaFrisoni&theme=tokyonight)  
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=LucaFrisoni&color=blue)
 
 ---
 
