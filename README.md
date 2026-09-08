@@ -64,7 +64,7 @@ Algunos de mis proyectos del pasado:<br>
 
 ## No dudes en contactarme!
 💼[Linkedin](https://www.linkedin.com/in/luca-frisoni-58ba67238/)<br>
-📧Envíame un correo electrónicofrisoniluca1@gmail.com<br>
+📧Envíame un correo electrónico: frisoniluca1@gmail.com<br>
 🧠[Portfolio](https://portfoliolucafrisoni.onrender.com/) 
 
 ---
