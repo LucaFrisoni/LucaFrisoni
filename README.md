@@ -1,32 +1,36 @@
 
 # Luca Frisoni - Full-Stack Developer ![Visitas al perfil](https://komarev.com/ghpvc/?username=LucaFrisoni&color=blue)
-¡Hola! Soy Luca Frisoni, tengo 23 años, soy estudiante de Ingeniería Informática y Full-Stack Developer apasionado por el desarrollo de Software, hacking ético y la IA.  
-Mi experiencia se basa principalmente en el uso de **JavaScript, Python, TypeScript , C y Java**, junto a tecnologías como **Node.js, React, Next.js, Flask, PostgreSQL, MongoDB**, entre muchas otras.
+¡Hola! Soy Luca Frisoni, estudiante avanzado de Ingeniería Informática y Full-Stack Developer, apasionado por la tecnología y la creación de soluciones de software.
+
+Me interesa especialmente el desarrollo de software, la inteligencia artificial, la ciberseguridad, la ciencia de datos y DevOps, áreas en las que busco constantemente aprender, experimentar y ampliar mis conocimientos.
 
 ---
 
-## ¿Por qué elegirme?
-⭐ **Formación sólida y en constante crecimiento:** Estoy en segundo año de Ingeniería Informática y cuento con una base técnica robusta, fortalecida por mi paso por SoyHenry y mi compromiso personal con el aprendizaje autodidacta. A diario dedico tiempo a seguir perfeccionando mis habilidades y ampliando mis conocimientos en programación y arquitectura de software.
+## Sobre mi
+⭐ **Formación sólida y en constante crecimiento:** Estoy en cuarto año de Ingeniería Informática y cuento con una base técnica sólida, fortalecida por mi paso por SoyHenry y mi compromiso con el aprendizaje autodidacta. A diario dedico tiempo a seguir perfeccionando mis habilidades y ampliando mis conocimientos.
 
-⭐ **Curiosidad, ambición y disciplina:** Aprendí a programar desde cero en pocos meses, y desde entonces no he dejado de avanzar. Soy una persona exigente conmigo mismo, ambiciosa en mis metas y profundamente curiosa, lo que me lleva a aprender rápido y adaptarme con facilidad a nuevas tecnologías.
+⭐ **Curiosidad, ambición y disciplina:** Aprendí a programar desde cero en pocos meses y, desde entonces, no he dejado de avanzar. Soy una persona exigente conmigo mismo, ambiciosa en mis metas y profundamente curiosa, lo que me lleva a aprender rápidamente y adaptarme con facilidad a nuevas tecnologías.
 
-⭐ **Mentalidad estructurada y organizada:** Trabajo con enfoque y orden. Me resulta natural estructurar tanto el código como los procesos, lo que me permite trabajar con claridad, mantener buenas prácticas y colaborar de forma efectiva en equipos de desarrollo.
+⭐ **Mentalidad estructurada y organizada:** Trabajo con enfoque y orden. Me resulta natural estructurar tanto el código como los procesos, lo que me permite trabajar con claridad, mantener buenas prácticas y desenvolverme de manera efectiva en proyectos de desarrollo.
 
-⭐ **Trabajo en equipo y liderazgo:** Tengo la capacidad de integrarme con facilidad en equipos de trabajo, aportar desde lo técnico y también desde lo humano. Me destaco por mi compromiso, responsabilidad y disposición a tomar decisiones estratégicas que impulsen los proyectos hacia el éxito.
+⭐ **Factor humano y trabajo en equipo:** Considero que el factor humano es fundamental para construir buenos equipos y lograr grandes resultados. Soy una persona sociable, cercana, responsable y ordenada, con facilidad para comunicarme y relacionarme con otras personas. Disfruto trabajar en equipo, intercambiar ideas y aprender de quienes me rodean.
 
-⭐ **Listo para entornos profesionales:** A pesar de mi corta trayectoria, ya cuento con la preparación y mentalidad necesarias para contribuir en entornos de trabajo exigentes y profesionales. Me entusiasma la idea de seguir creciendo junto a equipos desafiantes y proyectos con impacto real.
+⭐ **Liderazgo y colaboración:** A lo largo de mis experiencias fui descubriendo y desarrollando una faceta de liderazgo, tomando la iniciativa, escuchando diferentes perspectivas, aportando ideas y buscando que todos podamos avanzar en conjunto. Para mí, el liderazgo también implica saber escuchar, acompañar y contribuir a que el equipo alcance sus objetivos.
+
+⭐ **Ambiente y crecimiento:** Creo que un buen ambiente de trabajo, basado en la comunicación, la confianza y la colaboración, es tan importante como las capacidades técnicas. Valoro formar parte de equipos donde exista un intercambio constante de ideas, donde pueda aportar mis conocimientos, aprender de los demás y crecer junto a las personas con las que trabajo.
+
 
 ---
 
 ## Experiencia
-Algunos de mis proyectos mas destacados en producción:<br>
+Algunos de mis proyectos del pasado:<br>
 🖼️[Clone Figma](https://figma-clone-sooty.vercel.app/)<br>
-> *Estoy trabajando en nuevos proyectos que también compartiré pronto.*  
+> *Podés conocer más sobre mis proyectos y trabajos en mi [portfolio](https://portfoliolucafrisoni.onrender.com/).*  
 > *Muchos proyectos en formato local.*
 
 ---
  
- ## ¿Que tecnologías uso?
+ ## Algunas de las tecnologias que uso
 ![JavaScript](https://img.icons8.com/color/80/000000/javascript--v1.png)
 <img width="80" height="80" src="https://img.icons8.com/fluency/80/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 ![Python](https://img.icons8.com/color/80/python--v1.png)
