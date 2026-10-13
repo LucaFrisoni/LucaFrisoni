@@ -1,5 +1,5 @@
 
-# Luca Frisoni - Full-Stack Developer ![Visitas al perfil](https://komarev.com/ghpvc/?username=LucaFrisoni&color=blue)
+# Luca Frisoni - Full-Stack Developer 
 ¡Hola! Soy Luca Frisoni, estudiante avanzado de Ingeniería Informática y Full-Stack Developer, apasionado por la tecnología y la creación de soluciones de software.
 
 Me interesa especialmente el desarrollo de software, la inteligencia artificial, la ciberseguridad, la ciencia de datos y DevOps, áreas en las que busco constantemente aprender, experimentar y ampliar mis conocimientos.
